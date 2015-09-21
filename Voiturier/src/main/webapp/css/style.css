@@ -1,0 +1,48 @@
+body {
+    overflow-x: hidden;
+    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+}
+#container{
+ margin: 0 auto;
+    width: 350px;
+}
+.selection{
+    float: left;
+    margin-right: 50px;
+}
+
+
+.content1{
+    background: url(../img/header-bg2.jpg);
+    background-size: cover;
+}
+.content2{
+    background: url(../img/header-bg.jpg);
+    background-size: cover;
+}
+
+.form-control{
+    margin: 0 auto;
+    width: 70% !important;
+}
+label{
+    margin-left: 90px;   
+    color: azure;
+}
+h4 {
+    color: #fff !important;   
+    
+}
+.connect{
+ background: url(../img/header-bga.jpg);  
+    background-size: cover;
+}
+.modal-footer a{
+ color: #fff;   
+}
+.modal-footer a:hover{
+ color:aliceblue;   
+}
+.perso{
+    width: 350px !important;
+}
